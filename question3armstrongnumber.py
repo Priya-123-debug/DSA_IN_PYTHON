@@ -13,3 +13,8 @@ def armstrong(num):
 for i in range(5000,5020):
     print(armstrong(i))
 
+
+#time complexity is logbase10 (n)
+#base depends on by which we divide 
+
+
