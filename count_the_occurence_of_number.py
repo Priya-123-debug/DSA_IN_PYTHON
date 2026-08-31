@@ -7,7 +7,7 @@ n=len(nums)
 # for i in range(0,n):
 #     if nums[i]==target:
 #         if first==-1:
-#             first=i
+#             first=
 #         last=i
 # print(last-first+1) 
 def lower_bound(nums,target):
